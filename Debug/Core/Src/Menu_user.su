@@ -1,0 +1,9 @@
+../Core/Src/Menu_user.c:33:6:Handle_user	16	static
+../Core/Src/Menu_user.c:92:10:edit_int	56	static
+../Core/Src/Menu_user.c:162:7:edit_float	48	static
+../Core/Src/Menu_user.c:245:6:edit_string	48	static
+../Core/Src/Menu_user.c:297:7:clean_data_uart	32	static
+../Core/Src/Menu_user.c:319:6:clear_screen	16	static
+../Core/Src/Menu_user.c:335:6:use_default_values	8	static
+../Core/Src/Menu_user.c:352:6:print_menu	8	static
+../Core/Src/Menu_user.c:374:6:see_parameters	8	static

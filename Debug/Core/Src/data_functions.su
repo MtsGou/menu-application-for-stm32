@@ -1,0 +1,6 @@
+../Core/Src/data_functions.c:32:6:UART_SERIAL_SEND_TX	8	static
+../Core/Src/data_functions.c:54:7:IntToString	40	static
+../Core/Src/data_functions.c:90:6:write_UART	16	static
+../Core/Src/data_functions.c:109:6:reverse	32	static
+../Core/Src/data_functions.c:130:5:intToStr	32	static
+../Core/Src/data_functions.c:157:6:ftoa	48	static
